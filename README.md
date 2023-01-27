@@ -1,5 +1,6 @@
-### Hi there 👋
-I'm a Frontend Software Engineer
+<div align=center>
+	I'm a Frontend Software Engineer
+</div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 </div>
@@ -11,6 +12,7 @@ I'm a Frontend Software Engineer
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 </div>
 <br>
-<div align=center>	
-![Sekhyuni's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=sekhyuni)
+<div align=center>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekhyuni&layout=compact">
+	<img src="https://github-readme-stats.vercel.app/api?username=sekhyuni&show_icons=true">
 </div>
