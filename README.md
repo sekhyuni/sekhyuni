@@ -15,8 +15,8 @@
 </div>
 <br>
 <div align="center">
-	<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekhyuni&layout=compact" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekhyuni&layout=compact" />
 	<br>
 	<br>
-	<img width="500" src="https://github-readme-stats.vercel.app/api?username=sekhyuni&show_icons=true" />
+	<img src="https://github-readme-stats.vercel.app/api?username=sekhyuni&show_icons=true" />
 </div>
