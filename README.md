@@ -1,5 +1,5 @@
 <div align="center">
-	<h2>I'm a Frontend Software Engineer</h2>
+	<h3>I'm a Frontend Software Engineer</h3>
 </div>
 <div align="center">
 	<h3>📚 Tech Stack 📚</h3>
