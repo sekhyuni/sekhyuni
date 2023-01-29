@@ -1,7 +1,7 @@
-<div align=center>
-	I'm a Frontend Software Engineer
+<div align="center">
+	<h2>I'm a Frontend Software Engineer</h2>
 </div>
-<div align=center>
+<div align="center">
 	<h3>📚 Tech Stack 📚</h3>
 </div>
 <div align="center">
@@ -14,9 +14,9 @@
 	<img src="https://img.shields.io/badge/Redux-blueviolet?style=flat&logo=Redux&logoColor=white" />	
 </div>
 <br>
-<div align=center>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekhyuni&layout=compact">
+<div align="center">
+	<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekhyuni&layout=compact" />
 	<br>
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=sekhyuni&show_icons=true">
+	<img width="500" src="https://github-readme-stats.vercel.app/api?username=sekhyuni&show_icons=true" />
 </div>
