@@ -14,9 +14,7 @@
 	<img src="https://img.shields.io/badge/Redux-blueviolet?style=flat&logo=Redux&logoColor=white" />	
 </div>
 <br>
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekhyuni&layout=compact" />
-	<br>
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=sekhyuni&show_icons=true" />
+<div>
+	<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekhyuni&layout=compact" />
+	<img height="200" src="https://github-readme-stats.vercel.app/api?username=sekhyuni&show_icons=true" />
 </div>
