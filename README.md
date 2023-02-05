@@ -5,7 +5,7 @@
 	<h3>💻 Tech Stack 💻</h3>
 </div>
 <div align=center>
-	<p>✨ Languages ✨</p>
+	<p>📋 Languages 📋</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -24,6 +24,14 @@
 	<img src="https://img.shields.io/badge/Redux-blueviolet?style=flat&logo=Redux&logoColor=white" />	
 	<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=Express&logoColor=%2361DAFB" />
 	<img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=Flask&logoColor=white" />
+</div>
+<br>
+<div align=center>
+	<p>💾 Databases 💾</p>
+</div>
+<div align="center">
+	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" />
+	<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
 </div>
 <br>
 <div align="center">
