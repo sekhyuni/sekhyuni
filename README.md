@@ -14,6 +14,7 @@
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />	
 	<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=Python&logoColor=ffdd54" />	
 </div>
+<br>
 <div align=center>
 	<p>📚 Libraries & Frameworks 📚</p>
 </div>
