@@ -30,8 +30,8 @@
 	<p>💾 Databases 💾</p>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" />
-	<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
+	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=MongoDB&logoColor=white" />
+	<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=PostgreSQL&logoColor=white" />
 </div>
 <br>
 <div align="center">
