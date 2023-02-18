@@ -34,6 +34,13 @@
 	<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=PostgreSQL&logoColor=white" />
 </div>
 <br>
+<div align=center>
+	<p>☁️ Hosting & Sass ☁️</p>
+</div>
+<div align="center">
+	<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=Amazon-AWS&logoColor=white" />
+</div>
+<br>
 <div align="center">
 	<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekhyuni&layout=compact" />
 	<br>
