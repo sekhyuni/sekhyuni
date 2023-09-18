@@ -38,6 +38,8 @@
 	<p>☁️ Hosting & Sass ☁️</p>
 </div>
 <div align="center">
+	<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" />
+	<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=Firebase" />
 	<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=Amazon-AWS&logoColor=white" />
 </div>
 <br>
