@@ -40,9 +40,6 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <img src="https://streak-stats.demolab.com?user=sekhyuni&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sekhyuni&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sekhyuni&theme=tokyonight" alt="Most Commit Language" />
 </div>
 
 <br/>
